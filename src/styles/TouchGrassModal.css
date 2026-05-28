@@ -45,10 +45,6 @@
   transition: opacity 0.2s;
 }
 
-.rude-btn-primary:hover {
-  opacity: 0.9;
-}
-
 .rude-btn-primary:active {
   opacity: 0.8;
 }
