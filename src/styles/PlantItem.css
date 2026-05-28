@@ -1,0 +1,38 @@
+.rude-plant-item-cover {
+	height: 220px;
+	width: 220px;
+	border-radius: 19px;
+	padding: 0.1px;
+}
+
+.rude-plant-item {
+	margin: 13px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+	text-transform: capitalize;
+}
+
+.rude-plant-item-price {
+	font-weight: bold;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.rude-plant-item-price-note {
+	font-size: 0.8em;
+	color: red;
+	font-style: italic;
+	font-weight: normal;
+}
+
+.rude-plant-item-desc {
+	font-size: 0.85em;
+	color: #555;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	max-width: 220px;
+	text-transform: none;
+	font-style: italic;
+}

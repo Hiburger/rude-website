@@ -1,0 +1,22 @@
+.rude-banner {
+	color: rgb(179, 155, 1);
+	text-align: right;
+	padding: 22px;
+	border-bottom: solid 28px #61f66b;
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	align-items: center;
+	border-radius: 0px 0px 19px 0px;
+}
+
+.rude-title {
+	padding-left: 8px;
+}
+
+.rude-logo {
+	height: 150px;
+	width: auto;
+	max-width: 260px;
+	object-fit: contain;
+}

@@ -1,0 +1,10 @@
+.rude-care-icon {
+	width: 22px;
+	height: 22px;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.rude-care-icon + .rude-care-icon {
+	margin-left: 4px;
+}
